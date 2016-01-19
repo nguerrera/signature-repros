@@ -1,1 +1,4 @@
 *.exe
+*.res
+*.dll
+*.obj
